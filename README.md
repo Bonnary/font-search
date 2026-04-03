@@ -19,8 +19,9 @@ Find which system font best matches text in a screenshot or image. Crop the text
 
 ## Demo
 
-<video controls src="assets/demo.mp4" title="Font Search demo"></video>
-
+<p align="center" width="100%">
+<video src="https://github.com/user-attachments/assets/b2f58892-d1a1-471b-8383-00dcd2dd8586" width="80%" controls title="Font Search demo"></video>
+</p>
 ---
 
 ## Features
