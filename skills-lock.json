@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "matplotlib-best-practices": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "computedHash": "249c325f8e7f6c4ef5812f697e70a4780d3cf191b83239dabeb4e3356b8a372a"
+    },
+    "numpy-best-practices": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "computedHash": "33ddb4c683ff8171a2171ef06018c80e4993419b67056a8780f56a9eedbec87e"
+    },
+    "pyside6-mvc": {
+      "source": "ds-codi/project-memory-mcp",
+      "sourceType": "github",
+      "computedHash": "7ad8222eb1f85e093f872e16f876ad17b3d7e9c8cd6c08bb45ea67e961a4f853"
+    },
+    "python-performance-optimization": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "6390615b25e5922057b15eb900d69a90db563c5f2d6bd3182be707592fc25f09"
+    },
+    "uv-package-manager": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "3aaa4f0a3d50061e023783236866b97f326cd1fef7f27166893c302a1a3c04fa"
+    }
+  }
+}
